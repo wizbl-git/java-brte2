@@ -47,7 +47,7 @@ cd java-brte2
 
 ### Running multi-nodes
 
-https://github.com/wizbl-git/java-brte2/blob/master/docs/deployment/FullNodee_Deployment.md
+https://github.com/wizbl-git/java-brte2/blob/master/docs/deployment/FullNode_Deployment.md
 
 ## Running a local node and connecting to the public testnet 
 
