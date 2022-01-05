@@ -1,4 +1,4 @@
-# Deployment of SolidityNode and FullNode on the same host
+# Deployment of FullNode on the same host
 
 Create separate directories for fullnode
 ```
